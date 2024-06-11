@@ -13,7 +13,7 @@ sudo apt update
 sudo apt install git
 git clone https://github.com/mehedishakeel/HackMKV.git
 cd HackMKV
-sudo chmod +x Injectapk.sh
+sudo chmod +x HackMKV.sh
 sudo ./HackMKV.sh
 ```
 
