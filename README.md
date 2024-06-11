@@ -7,7 +7,7 @@ OS: Kali Linux
 
 Packages : metasploit-framework, apache2
 
-## How To Use InjectAPK
+## How To Use HackMKV
 ```
 sudo apt update
 sudo apt install git
